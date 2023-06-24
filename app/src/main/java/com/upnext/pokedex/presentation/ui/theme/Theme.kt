@@ -1,4 +1,4 @@
-package com.upnext.pokedex.ui.theme
+package com.upnext.pokedex.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
